@@ -1,5 +1,5 @@
 {
-    "name": "RPocas/php-zxing",
+    "name": "rpocas/php-barcode",
     "description": "Wrapper for zxing using php",
     "type": "library",
     "license": "MIT",
